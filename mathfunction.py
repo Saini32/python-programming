@@ -1,0 +1,11 @@
+import math
+print(math.sqrt(64))
+print(math.pi)
+print(math.ceil(5.1))
+print(math.floor(5.1))
+print(math.pow(2,3))
+print(math.exp(3))
+print(math.log(10))
+print(math.sin(90))
+print(math.cos(45))
+print(math.tan(30))
