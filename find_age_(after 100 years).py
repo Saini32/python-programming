@@ -1,0 +1,5 @@
+name=input("\n enter ur name=")
+age=int(input("enet age="))
+year=str((2024-age)+100)
+print(name)
+print("\n",year)
